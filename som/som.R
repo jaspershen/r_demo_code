@@ -39,6 +39,7 @@ plot(som_model, type="dist.neighbours",
      main = "SOM neighbour distances",shape = "straight")
 
 
+
 # Weight Vector View
 plot(som_model, type="codes",shape = "straight")
 
